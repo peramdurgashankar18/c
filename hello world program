@@ -1,0 +1,6 @@
+//write a program for hello world in c
+#include<stdio.h>
+int main()
+{
+  printf("HELLO WORLD");
+}
